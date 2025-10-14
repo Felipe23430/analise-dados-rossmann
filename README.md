@@ -1,4 +1,4 @@
-# 🧠 Análise de Dados - Rossmann Sales Prediction
+# Análise de Dados - Rossmann Sales Prediction
 
 ## 1. Contexto do Negócio
 
@@ -75,13 +75,13 @@ A avaliação foi realizada com base nas métricas **MAE**, **MAPE** e **RMSE**,
 
 ## 5. Principais Insights
 
-### 💡 Insight 1  
+###  Insight 1  
 Lojas com **vendedores mais próximos** tendem a **vender mais**.
 
-### 💡 Insight 2  
+### Insight 2  
 Lojas com **promoções ativas por longos períodos** tendem a **vender menos após certo tempo**, indicando saturação do cliente.
 
-### 💡 Insight 3  
+### Insight 3  
 Lojas com **maior sortimento de produtos** apresentam **menor volume de vendas**, possivelmente por diluição da atenção do consumidor.
 
 ---
@@ -109,7 +109,6 @@ Além disso, o processo reforçou a importância do **CRISP-DM** como metodologi
 
 ## 8. Próximos Passos
 
-- 🚀 Implementar o modelo em um ambiente de **produção (API)** para uso prático pelos gerentes de loja.  
-- 🧩 Simular novos cenários de negócio para testar a robustez do modelo.  
-- 🤖 Explorar **modelos de aprendizado profundo (Deep Learning)** para comparar desempenho.  
-- 📈 Aprimorar as análises com novas fontes de dados externas (clima, feriados regionais, eventos locais).
+-  Simular novos cenários de negócio para testar a robustez do modelo.  
+-  Explorar **modelos de aprendizado profundo (Deep Learning)** para comparar desempenho.  
+-  Aprimorar as análises com novas fontes de dados externas (clima, feriados regionais, eventos locais).
