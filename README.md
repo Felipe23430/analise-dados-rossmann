@@ -7,13 +7,9 @@ Atualmente, os gerentes de loja têm a tarefa de **prever suas vendas diárias c
 
 Essas vendas são influenciadas por diversos fatores, como **promoções**, **concorrência**, **feriados escolares e estaduais**, **sazonalidade** e **localização**.
 
----
-
 ## 2. Solução do Problema
 
 O objetivo foi **criar um modelo de Machine Learning** capaz de **prever as vendas das lojas Rossmann nas próximas 6 semanas**, utilizando os dados disponibilizados pela plataforma **Kaggle**.
-
----
 
 ## 3. Planejamento da Solução
 
@@ -65,13 +61,9 @@ Em seguida, foi realizado o **Cross Validation** para medir a performance real e
 | XGBoost Regressor | 1030.28 ± 167.19 | 0.14 ± 0.02 | 1478.26 ± 320.36 |
 | Lasso | 2116.38 ± 341.50 | 0.29 ± 0.01 | 3057.75 ± 504.26 |
 
----
-
 ## 4. Avaliação dos Algoritmos
 
 A avaliação foi realizada com base nas métricas **MAE**, **MAPE** e **RMSE**, considerando tanto a **precisão estatística** quanto o **impacto no negócio**.
-
----
 
 ## 5. Principais Insights
 
@@ -84,7 +76,6 @@ Lojas com **promoções ativas por longos períodos** tendem a **vender menos ap
 ### Insight 3  
 Lojas com **maior sortimento de produtos** apresentam **menor volume de vendas**, possivelmente por diluição da atenção do consumidor.
 
----
 
 ## 6. Resultados
 
@@ -95,7 +86,6 @@ No entanto, foi utilizado o **XGBoost** para o *fine tuning* e obtenção da **v
 |---------------|------|------|------|------|
 | XGBoost Regressor | 664.97 | 0.0975 | 957.77 | -0.0035 |
 
----
 
 ## 7. Conclusões
 
@@ -105,7 +95,6 @@ O modelo desenvolvido é capaz de fornecer **projeções confiáveis de vendas p
 
 Além disso, o processo reforçou a importância do **CRISP-DM** como metodologia estruturada, garantindo clareza nas etapas e reprodutibilidade dos resultados.
 
----
 
 ## 8. Próximos Passos
 
